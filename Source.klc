@@ -21,55 +21,55 @@ LAYOUT		;an extra '@' at the end is a dead key
 //SC	VK_		Cap	0	1	2
 //--	----		----	----	----	----
 
-02	1		0	a9d1	a9b5	-1		// <null>, <null>, <none>
-03	2		0	a9d2	a9cf	-1		// <null>, <null>, <none>
-04	3		0	a9d3	a9c6	-1		// <null>, <null>, <none>
-05	4		0	a9d4	a9de	-1		// <null>, <null>, <none>
-06	5		0	a9d5	a9df	-1		// <null>, <null>, <none>
-07	6		0	a9d6	a9c3	-1		// <null>, <null>, <none>
-08	7		0	a9d7	a9c4	-1		// <null>, <null>, <none>
-09	8		0	a9d8	a9c5	-1		// <null>, <null>, <none>
-0a	9		0	a9d9	a9cc	-1		// <null>, <null>, <none>
-0b	0		0	a9d0	a9cd	-1		// <null>, <null>, <none>
-0c	OEM_MINUS	0	a9b3	a9b7	-1		// <null>, <null>, <none>
-0d	OEM_PLUS	0	a980	a999	-1		// <null>, <null>, <none>
-10	Q		0	a9c0	a990	-1		// <null>, <null>, <none>
-11	W		0	a9ae	a9bb	-1		// <null>, <null>, <none>
-12	E		0	a9ba	a98c	-1		// <null>, <null>, <none>
-13	R		0	a9ab	a9bf	-1		// <null>, <null>, <none>
-14	T		0	a9a0	a9a1	-1		// <null>, <null>, <none>
-15	Y		0	a9aa	a9be	-1		// <null>, <null>, <none>
-16	U		0	a9b8	a988	-1		// <null>, <null>, <none>
-17	I		0	a9b6	a986	-1		// <null>, <null>, <none>
-18	O		0	%%	a98e	-1		// <null>, <null>, <none>
-19	P		0	a9a5	a9a6	-1		// <null>, <null>, <none>
-1a	OEM_4		0	a981	a9c1	-1		// <null>, <null>, <none>
-1b	OEM_6		0	a982	a9c2	-1		// <null>, <null>, <none>
-1e	A		0	a994	a984	-1		// <null>, <null>, <none>
-1f	S		0	a9b1	a9af	-1		// <null>, <null>, <none>
-20	D		0	a9a2	a9a3	-1		// <null>, <null>, <none>
-21	F		0	a989	a9bd	-1		// <null>, <null>, <none>
-22	G		0	a992	a993	-1		// <null>, <null>, <none>
-23	H		0	a9b2	a983	-1		// <null>, <null>, <none>
-24	J		0	a997	a998	-1		// <null>, <null>, <none>
-25	K		0	a98f	a991	-1		// <null>, <null>, <none>
-26	L		0	a9ad	a9b4	-1		// <null>, <null>, <none>
-27	OEM_1		0	a99d	a99e	-1		// <null>, <null>, <none>
-28	OEM_7		0	a99b	a99c	-1		// <null>, <null>, <none>
-29	OEM_3		0	a9c7	a9ca	-1		// <null>, <null>, <none>
+02	1		0	a9d1	a9b5	-1		// JAVANESE DIGIT ONE, JAVANESE VOWEL SIGN TOLONG, <none>
+03	2		0	a9d2	a9cf	-1		// JAVANESE DIGIT TWO, JAVANESE PANGRANGKEP, <none>
+04	3		0	a9d3	a9c6	-1		// JAVANESE DIGIT THREE, JAVANESE PADA WINDU, <none>
+05	4		0	a9d4	a9de	-1		// JAVANESE DIGIT FOUR, JAVANESE PADA TIRTA TUMETES, <none>
+06	5		0	a9d5	a9df	-1		// JAVANESE DIGIT FIVE, JAVANESE PADA ISEN-ISEN, <none>
+07	6		0	a9d6	a9c3	-1		// JAVANESE DIGIT SIX, JAVANESE PADA ANDAP, <none>
+08	7		0	a9d7	a9c4	-1		// JAVANESE DIGIT SEVEN, JAVANESE PADA MADYA, <none>
+09	8		0	a9d8	a9c5	-1		// JAVANESE DIGIT EIGHT, JAVANESE PADA LUHUR, <none>
+0a	9		0	a9d9	a9cc	-1		// JAVANESE DIGIT NINE, JAVANESE PADA PISELEH, <none>
+0b	0		0	a9d0	a9cd	-1		// JAVANESE DIGIT ZERO, JAVANESE TURNED PADA PISELEH, <none>
+0c	OEM_MINUS	0	a9b3	a9b7	-1		// JAVANESE SIGN CECAK TELU, JAVANESE VOWEL SIGN WULU MELIK, <none>
+0d	OEM_PLUS	0	a980	a999	-1		// JAVANESE SIGN PANYANGGA, JAVANESE LETTER JA MAHAPRANA, <none>
+10	Q		0	a9c0	a990	-1		// JAVANESE PANGKON, JAVANESE LETTER KA SASAK, <none>
+11	W		0	a9ae	a9bb	-1		// JAVANESE LETTER WA, JAVANESE VOWEL SIGN DIRGA MURE, <none>
+12	E		0	a9ba	a98c	-1		// JAVANESE VOWEL SIGN TALING, JAVANESE LETTER E, <none>
+13	R		0	a9ab	a9bf	-1		// JAVANESE LETTER RA, JAVANESE CONSONANT SIGN CAKRA, <none>
+14	T		0	a9a0	a9a1	-1		// JAVANESE LETTER TA, JAVANESE LETTER TA MURDA, <none>
+15	Y		0	a9aa	a9be	-1		// JAVANESE LETTER YA, JAVANESE CONSONANT SIGN PENGKAL, <none>
+16	U		0	a9b8	a988	-1		// JAVANESE VOWEL SIGN SUKU, JAVANESE LETTER U, <none>
+17	I		0	a9b6	a986	-1		// JAVANESE VOWEL SIGN WULU, JAVANESE LETTER I, <none>
+18	O		0	%%	a98e	-1		// <null>, JAVANESE LETTER O, <none>
+19	P		0	a9a5	a9a6	-1		// JAVANESE LETTER PA, JAVANESE LETTER PA MURDA, <none>
+1a	OEM_4		0	a981	a9c1	-1		// JAVANESE SIGN CECAK, JAVANESE LEFT RERENGGAN, <none>
+1b	OEM_6		0	a982	a9c2	-1		// JAVANESE SIGN LAYAR, JAVANESE RIGHT RERENGGAN, <none>
+1e	A		0	a994	a984	-1		// JAVANESE LETTER NGA, JAVANESE LETTER A, <none>
+1f	S		0	a9b1	a9af	-1		// JAVANESE LETTER SA, JAVANESE LETTER SA MURDA, <none>
+20	D		0	a9a2	a9a3	-1		// JAVANESE LETTER DA, JAVANESE LETTER DA MAHAPRANA, <none>
+21	F		0	a989	a9bd	-1		// JAVANESE LETTER PA CEREK, JAVANESE CONSONANT SIGN KERET, <none>
+22	G		0	a992	a993	-1		// JAVANESE LETTER GA, JAVANESE LETTER GA MURDA, <none>
+23	H		0	a9b2	a983	-1		// JAVANESE LETTER HA, JAVANESE SIGN WIGNYAN, <none>
+24	J		0	a997	a998	-1		// JAVANESE LETTER JA, JAVANESE LETTER NYA MURDA, <none>
+25	K		0	a98f	a991	-1		// JAVANESE LETTER KA, JAVANESE LETTER KA MURDA, <none>
+26	L		0	a9ad	a9b4	-1		// JAVANESE LETTER LA, JAVANESE VOWEL SIGN TARUNG, <none>
+27	OEM_1		0	a99d	a99e	-1		// JAVANESE LETTER DDA, JAVANESE LETTER DDA MAHAPRANA, <none>
+28	OEM_7		0	a99b	a99c	-1		// JAVANESE LETTER TTA, JAVANESE LETTER TTA MAHAPRANA, <none>
+29	OEM_3		0	a9c7	a9ca	-1		// JAVANESE PADA PANGKAT, JAVANESE PADA ADEG, <none>
 2b	OEM_5		0	200c	200b	-1		// ZERO WIDTH NON-JOINER, ZERO WIDTH SPACE, <none>
-2c	Z		0	a99a	a9b0	-1		// <null>, <null>, <none>
-2d	X		0	a9bc	a9ac	-1		// <null>, <null>, <none>
-2e	C		0	a995	a996	-1		// <null>, <null>, <none>
-2f	V		0	a98a	a98b	-1		// <null>, <null>, <none>
-30	B		0	a9a7	a9a8	-1		// <null>, <null>, <none>
-31	N		0	a9a4	a98d	-1		// <null>, <null>, <none>
-32	M		0	a9a9	a9b9	-1		// <null>, <null>, <none>
-33	OEM_COMMA	0	a9c8	a99f	-1		// <null>, <null>, <none>
-34	OEM_PERIOD	0	a9c9	a985	-1		// <null>, <null>, <none>
-35	OEM_2		0	a9cb	a987	-1		// <null>, <null>, <none>
+2c	Z		0	a99a	a9b0	-1		// JAVANESE LETTER NYA, JAVANESE LETTER SA MAHAPRANA, <none>
+2d	X		0	a9bc	a9ac	-1		// JAVANESE VOWEL SIGN PEPET, JAVANESE LETTER RA AGUNG, <none>
+2e	C		0	a995	a996	-1		// JAVANESE LETTER CA, JAVANESE LETTER CA MURDA, <none>
+2f	V		0	a98a	a98b	-1		// JAVANESE LETTER NGA LELET, JAVANESE LETTER NGA LELET RASWADI, <none>
+30	B		0	a9a7	a9a8	-1		// JAVANESE LETTER BA, JAVANESE LETTER BA MURDA, <none>
+31	N		0	a9a4	a98d	-1		// JAVANESE LETTER NA, JAVANESE LETTER AI, <none>
+32	M		0	a9a9	a9b9	-1		// JAVANESE LETTER MA, JAVANESE VOWEL SIGN SUKU MENDUT, <none>
+33	OEM_COMMA	0	a9c8	a99f	-1		// JAVANESE PADA LINGSA, JAVANESE LETTER NA MURDA, <none>
+34	OEM_PERIOD	0	a9c9	a985	-1		// JAVANESE PADA LUNGSI, JAVANESE LETTER I KAWI, <none>
+35	OEM_2		0	a9cb	a987	-1		// JAVANESE PADA ADEG ADEG, JAVANESE LETTER II, <none>
 39	SPACE		0	0020	0020	-1		// SPACE, SPACE, <none>
-53	DECIMAL	0	a9c8	a9c8	-1		// <null>, <null>, 
+53	DECIMAL	0	a9c8	a9c8	-1		// JAVANESE PADA LINGSA, JAVANESE PADA LINGSA, 
 
 LIGATURE
 
