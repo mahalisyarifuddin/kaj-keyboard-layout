@@ -1,5 +1,5 @@
 # nataksara
-ꦤꦠꦏ꧀ꦱꦫ /nɔtɔ aksɔrɔ/
+ꦤꦠꦴꦏ꧀ꦱꦫ /nɔtɔ aksɔrɔ/
 
 Implementasi tata letak papan ketik standar aksara Jawa yang dirumuskan oleh Kongres Aksara Jawa yang Pertama untuk sistem operasi Windows secara _native_.
 
